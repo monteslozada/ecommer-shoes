@@ -1,9 +1,17 @@
 import { useState } from 'react'
 import { Home, Products } from './src/screens'
+// import { useFonts } from 'expo-font'
+// import fonts from './src/global/fonts'
 
 export default function App() {
-  useState[ categorySelected, setCategorySelected] = useState('')
-  
+  // const [fontsLoaded] = useFonts(fonts)
+ const [ categorySelected, setCategorySelected] = useState('')
+
+  // if(!fontsLoaded){
+
+  //   return null
+  // }
+
   return categorySelected ? (
   <Products category={categorySelected} />
   ): (

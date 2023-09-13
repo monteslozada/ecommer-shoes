@@ -11,7 +11,7 @@ export default styles = StyleSheet.create({
         paddingTop: 10,
     },
      input:{ 
-        color:'balck',
+        color:'#f0fc',
         backgroundColor: Colors.primary,
         borderRadius: 10,
         padding: 10,
