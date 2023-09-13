@@ -1,5 +1,12 @@
-import Home from './src/screens/Home';
+import { useState } from 'react'
+import { Home, Products } from './src/screens'
 
 export default function App() {
-  return <Home/>
+  useState[ categorySelected, setCategorySelected] = useState('')
+  
+  return categorySelected ? (
+  <Products category={categorySelected} />
+  ): (
+  <Home setCategorySelected={setCategorySelected}/>
+  )
 }
