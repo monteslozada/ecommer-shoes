@@ -1,13 +1,13 @@
-import { FlatList, Text, View } from 'react-native'
+import { FlatList, Text, View, TouchableOpacity } from 'react-native'
 import { Header, SearchInput } from '../../componentes'
 import React, { useEffect, useState } from 'react'
 import allProducts from '../../data/Products'
 import styles from './Products.style'
 
-const Products = ({ category }) => {
+const Products = ({ navigation, route }) => {
   const [arrProducts, setArrProducts] = useState([])
   const [keyword, setKeyword] = useState('')
-
+const { category }= route.params
   useEffect(() => {
     if (category) {
       const products = allProducts.filter(
@@ -24,23 +24,30 @@ const Products = ({ category }) => {
       setArrProducts(productsFiltered)
     }
   }, [category, keyword])
-
+ 
   return (
+   
     <View style={styles.container}>
+       
       <Header title={category} />
+    
       <SearchInput onSearch={setKeyword} />
       <View style={styles.listContainer}>
+     
         <FlatList
           data={arrProducts}
           renderItem={({ item }) => (
-            <View>
+            <TouchableOpacity onPress={() => navigation.navigate('Details', {product: item})}>
               <Text>{item.title}</Text>
-            </View>
+            </TouchableOpacity>
           )}
           keyExtractor={item => item.id}
         />
+       
       </View>
+     
     </View>
+   
   )
 }
 

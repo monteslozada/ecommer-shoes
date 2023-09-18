@@ -9,5 +9,6 @@ export default styles = StyleSheet.create({
     paddingHorizontal: 15,
     flex: 5,
     marginTop: 50,
+    fontSize: 50,
   },
 })
