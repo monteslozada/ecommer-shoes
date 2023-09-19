@@ -9,10 +9,12 @@ const Details = ({route}) => {
   return (
     <View style={styles.container}>
 <Header title={'Detalle'}/>
-<Image style={styles.image} source={{ uri: product.images[3]  }}/>
+<View style={styles.carDetail}>
+<Image style={styles.image} source={{ uri: product.images[0]  }}/>
 <Text style={styles.title}>{product.title}</Text>
-<Text>{product.description}</Text>
+<Text style={ styles.descripcion}>{product.description}</Text>
 <Text  style={styles.price}>{`$ ${product.price}`}</Text>
+</View>
     </View>  
   )
   

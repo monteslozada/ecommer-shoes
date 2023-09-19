@@ -24,20 +24,32 @@ import { StyleSheet } from 'react-native'
 export default styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#FFFFFF',
+    backgroundColor: 'white',
+   
   },
+  
   image: {
-    height: '50%',
-    width: '90%',
+    height: '60%',
+    width: '100%',
+  
+justifyContent: 'center',
+
+    
   },
   title: {
     fontSize: 30,
     marginVertical: 15,
+    textAlign:'center'
  
   },
   price: {
-    fontSize: 20,
+    fontSize: 40,
     fontWeight: 'bold',
     marginVertical: 15,
+    textAlign:'center',
   },
+  descripcion:{
+    fontSize:20,
+    textAlign: 'center',
+  }
 })

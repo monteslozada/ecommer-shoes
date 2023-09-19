@@ -11,4 +11,7 @@ export default styles = StyleSheet.create({
     marginTop: 50,
     fontSize: 50,
   },
+  image:{
+justifyContent: 'space-between'
+  },
 })

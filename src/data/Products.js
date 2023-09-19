@@ -14,10 +14,7 @@
       "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_951591-MLA40862922196_022020-V.webp",
       "images": [
         "https://http2.mlstatic.com/D_NQ_NP_951591-MLA40862922196_022020-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_951591-MLA40862922196_022020-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_951591-MLA40862922196_022020-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_951591-MLA40862922196_022020-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_951591-MLA40862922196_022020-V.webp"
+        
       ]
     },   
      
@@ -34,9 +31,7 @@
         "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_602454-MLA54760903830_032023-V.webp",
         "images": [
           "https://http2.mlstatic.com/D_NQ_NP_602454-MLA54760903830_032023-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_602454-MLA54760903830_032023-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_602454-MLA54760903830_032023-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_602454-MLA54760903830_032023-V.webp",
+         
         ]
       },
       {
@@ -52,9 +47,7 @@
         "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_958303-MLA40864140097_022020-V.webp",
         "images": [
           "https://http2.mlstatic.com/D_NQ_NP_958303-MLA40864140097_022020-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_958303-MLA40864140097_022020-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_958303-MLA40864140097_022020-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_958303-MLA40864140097_022020-V.webp",
+        
         ]
       },
       {
@@ -70,9 +63,7 @@
         "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_650648-MLA43429177645_092020-V.webp",
         "images": [
           "https://http2.mlstatic.com/D_NQ_NP_650648-MLA43429177645_092020-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_650648-MLA43429177645_092020-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_650648-MLA43429177645_092020-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_650648-MLA43429177645_092020-V.webp",
+          
         ]
       },
       {
@@ -88,9 +79,7 @@
         "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_894882-MLA44914130827_022021-V.webp",
         "images": [
           "https://http2.mlstatic.com/D_NQ_NP_894882-MLA44914130827_022021-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_894882-MLA44914130827_022021-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_894882-MLA44914130827_022021-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_894882-MLA44914130827_022021-V.webp",
+         
         ]
       },
       {
@@ -106,9 +95,7 @@
         "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_852953-MLA69402677091_052023-V.webp",
         "images": [
           "https://http2.mlstatic.com/D_NQ_NP_852953-MLA69402677091_052023-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_852953-MLA69402677091_052023-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_852953-MLA69402677091_052023-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_852953-MLA69402677091_052023-V.webp",
+        
         ]
       },
       {
@@ -124,9 +111,7 @@
         "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_699851-MLA40862922069_022020-V.webp",
         "images": [
           "https://http2.mlstatic.com/D_NQ_NP_699851-MLA40862922069_022020-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_699851-MLA40862922069_022020-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_699851-MLA40862922069_022020-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_699851-MLA40862922069_022020-V.webp",
+         
         ]
       },
       {
@@ -142,9 +127,7 @@
         "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_805062-MLA40861843559_022020-V.webp",
         "images": [
           "https://http2.mlstatic.com/D_NQ_NP_805062-MLA40861843559_022020-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_805062-MLA40861843559_022020-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_805062-MLA40861843559_022020-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_805062-MLA40861843559_022020-V.webp",
+        
         ]
       },
       {
@@ -160,9 +143,7 @@
         "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_834780-MLA53885067002_022023-V.webp",
         "images": [
           "https://http2.mlstatic.com/D_NQ_NP_834780-MLA53885067002_022023-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_834780-MLA53885067002_022023-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_834780-MLA53885067002_022023-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_834780-MLA53885067002_022023-V.webp",
+         
         ]
       },
       {
@@ -178,9 +159,7 @@
         "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_744362-MLA49012110106_022022-V.webp",
         "images": [
           "https://http2.mlstatic.com/D_NQ_NP_744362-MLA49012110106_022022-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_744362-MLA49012110106_022022-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_744362-MLA49012110106_022022-V.webp",
-          "https://http2.mlstatic.com/D_NQ_NP_744362-MLA49012110106_022022-V.webp",
+        
     
     
 
@@ -201,9 +180,7 @@
     "thumbnail":  "https://http2.mlstatic.com/D_NQ_NP_809693-MLA43440454685_092020-V.webp",
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_809693-MLA43440454685_092020-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_809693-MLA43440454685_092020-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_809693-MLA43440454685_092020-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_809693-MLA43440454685_092020-V.webp",
+   
 
      
     ]
@@ -221,9 +198,7 @@
     "thumbnail":  'https://http2.mlstatic.com/D_NQ_NP_667696-MLA46792682054_072021-V.webp',
     "images": [
       'https://http2.mlstatic.com/D_NQ_NP_667696-MLA46792682054_072021-V.webp',
-      'https://http2.mlstatic.com/D_NQ_NP_667696-MLA46792682054_072021-V.webp',
-      'https://http2.mlstatic.com/D_NQ_NP_667696-MLA46792682054_072021-V.webp',
-      'https://http2.mlstatic.com/D_NQ_NP_667696-MLA46792682054_072021-V.webp',
+    
       
     ]
   },
@@ -240,9 +215,7 @@
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_644830-MLA50222950634_062022-V.webp",
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_644830-MLA50222950634_062022-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_644830-MLA50222950634_062022-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_644830-MLA50222950634_062022-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_644830-MLA50222950634_062022-V.webp",
+      
     ]
   },
   {
@@ -258,9 +231,7 @@
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_765841-MLA40860820661_022020-V.webp",
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_765841-MLA40860820661_022020-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_765841-MLA40860820661_022020-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_765841-MLA40860820661_022020-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_765841-MLA40860820661_022020-V.webp",
+    
     ]
   },
   {
@@ -276,9 +247,7 @@
     "thumbnail": 'https://http2.mlstatic.com/D_NQ_NP_689345-MLA43437746181_092020-V.webp',
     "images": [
       'https://http2.mlstatic.com/D_NQ_NP_689345-MLA43437746181_092020-V.webp',
-      'https://http2.mlstatic.com/D_NQ_NP_689345-MLA43437746181_092020-V.webp',
-      'https://http2.mlstatic.com/D_NQ_NP_689345-MLA43437746181_092020-V.webp',
-      'https://http2.mlstatic.com/D_NQ_NP_689345-MLA43437746181_092020-V.webp',
+     
     ]
   },
   {
@@ -294,9 +263,7 @@
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_652692-MLA40932409179_022020-V.webp",
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_652692-MLA40932409179_022020-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_652692-MLA40932409179_022020-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_652692-MLA40932409179_022020-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_652692-MLA40932409179_022020-V.webp",
+  
     ]
   },
   {
@@ -312,9 +279,7 @@
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_716171-MLA45075199441_032021-V.webp",
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_716171-MLA45075199441_032021-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_716171-MLA45075199441_032021-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_716171-MLA45075199441_032021-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_716171-MLA45075199441_032021-V.webp",
+     
     ]
   },
   {
@@ -330,9 +295,7 @@
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_847072-MLA47307626764_082021-V.webp",
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_847072-MLA47307626764_082021-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_847072-MLA47307626764_082021-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_847072-MLA47307626764_082021-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_847072-MLA47307626764_082021-V.webp",
+    
     ]
   },
   {
@@ -347,9 +310,6 @@
     "category": "Playstation",
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_632920-MLA44507414522_012021-V.webp",
     "images": [
-      "https://http2.mlstatic.com/D_NQ_NP_632920-MLA44507414522_012021-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_632920-MLA44507414522_012021-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_632920-MLA44507414522_012021-V.webp",
       "https://http2.mlstatic.com/D_NQ_NP_632920-MLA44507414522_012021-V.webp",
     ]
   },
@@ -366,9 +326,7 @@
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_818605-MLA40917205147_022020-V.webp",
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_818605-MLA40917205147_022020-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_818605-MLA40917205147_022020-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_818605-MLA40917205147_022020-V.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_818605-MLA40917205147_022020-V.webp",
+     
     ]
   },
   
@@ -385,9 +343,7 @@
       "thumbnai": "https://http2.mlstatic.com/D_NQ_NP_896244-MLA44495894208_012021-V.webp",
       "images": [
         "https://http2.mlstatic.com/D_NQ_NP_896244-MLA44495894208_012021-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_896244-MLA44495894208_012021-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_896244-MLA44495894208_012021-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_896244-MLA44495894208_012021-V.webp",
+        
       ]
     },
     {
@@ -403,9 +359,7 @@
       "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_777661-MLA47092893692_082021-V.webp",
       "images": [
         "https://http2.mlstatic.com/D_NQ_NP_777661-MLA47092893692_082021-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_777661-MLA47092893692_082021-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_777661-MLA47092893692_082021-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_777661-MLA47092893692_082021-V.webp",
+      
       ]
     },
     {
@@ -421,9 +375,7 @@
       "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_996081-MLA43465082196_092020-V.webp",
       "images": [
         "https://http2.mlstatic.com/D_NQ_NP_996081-MLA43465082196_092020-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_996081-MLA43465082196_092020-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_996081-MLA43465082196_092020-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_996081-MLA43465082196_092020-V.webp",
+      
       ]
     },
     {
@@ -439,27 +391,10 @@
       "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_795582-MLA53091391506_122022-V.webp",
       "images": [
         "https://http2.mlstatic.com/D_NQ_NP_795582-MLA53091391506_122022-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_795582-MLA53091391506_122022-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_795582-MLA53091391506_122022-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_795582-MLA53091391506_122022-V.webp",
+       
       ]
     },
-    {
-      "id": 25,
-      "title": "DEAD OR ALIVE 6",
-      "description": "Lucha en intensos combates en 3D con un elenco de personajes en Dead or Alive 6.",
-      "price": 399,
-      "discountPercentage": 10.0,
-      "rating": 4.6,
-      "stock": 80,
-      "brand": "Koei Tecmo",
-      "category": "Xbox",
-      "thumbnail": "URL_DE_LA_IMAGEN",
-      "images": [
-        "URL_DE_LA_IMAGEN",
-        "URL_DE_LA_IMAGEN"
-      ]
-    },
+    
     {
       "id": 26,
       "title": "MINECRAFT",
@@ -473,9 +408,7 @@
       "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_844766-MLA49807986225_042022-V.webp",
       "images": [
         "https://http2.mlstatic.com/D_NQ_NP_844766-MLA49807986225_042022-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_844766-MLA49807986225_042022-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_844766-MLA49807986225_042022-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_844766-MLA49807986225_042022-V.webp",
+     
       ]
     },
     {
@@ -491,9 +424,7 @@
       "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_919450-MLA44402592240_122020-V.webp",
       "images": [
         "https://http2.mlstatic.com/D_NQ_NP_919450-MLA44402592240_122020-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_919450-MLA44402592240_122020-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_919450-MLA44402592240_122020-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_919450-MLA44402592240_122020-V.webp",
+     
       ]
     },
     {
@@ -509,9 +440,7 @@
       "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_623100-MLA54099952011_032023-V.webp",
       "images": [
         "https://http2.mlstatic.com/D_NQ_NP_623100-MLA54099952011_032023-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_623100-MLA54099952011_032023-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_623100-MLA54099952011_032023-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_623100-MLA54099952011_032023-V.webp",
+      
       ]
     },
     {
@@ -527,9 +456,7 @@
       "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_838939-MLA53020089162_122022-V.webp",
       "images": [
         "https://http2.mlstatic.com/D_NQ_NP_838939-MLA53020089162_122022-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_838939-MLA53020089162_122022-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_838939-MLA53020089162_122022-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_838939-MLA53020089162_122022-V.webp",
+       
       ]
     },
     {
@@ -545,13 +472,7 @@
       "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_744294-MLA43438708452_092020-V.webp",
       "images": [
         "https://http2.mlstatic.com/D_NQ_NP_744294-MLA43438708452_092020-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_744294-MLA43438708452_092020-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_744294-MLA43438708452_092020-V.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_744294-MLA43438708452_092020-V.webp",
+       
       ]
     }
   ]
-  
-
-
- 
