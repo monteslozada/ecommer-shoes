@@ -31,6 +31,7 @@ export default styles = StyleSheet.create({
   image: {
     height: '60%',
     width: '100%',
+    resizeMode: 'contain',
   
 justifyContent: 'center',
 

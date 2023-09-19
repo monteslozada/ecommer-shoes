@@ -27,28 +27,56 @@ const { category }= route.params
  
   return (
    
-    <View style={styles.container}>
+    // <View style={styles.container}>
        
-      <Header title={category} />
+    //   <Header title={category} />
     
-      <SearchInput onSearch={setKeyword} />
-      <View style={styles.listContainer}>
+    //   <SearchInput onSearch={setKeyword} />
+    //   <View style={styles.listContainer}>
      
-        <FlatList
-          data={arrProducts}
-          renderItem={({ item }) => (
-            <TouchableOpacity onPress={() => navigation.navigate('Details', {product: item})}>
-              <Image style={styles.image} source={{ uri:item.images[3]  }}/>
-              <Text>{item.title}</Text>
-            </TouchableOpacity>
-          )}
-          keyExtractor={item => item.id}
-        />
+    //     <FlatList
+    //       data={arrProducts}
+    //       renderItem={({ item }) => (
+    //         <TouchableOpacity onPress={() => navigation.navigate('Details', {product: item})}>
+
+    //           <View style={styles.card}>
+    //           <Image style={styles.image} source={{ uri:item.thumbnail[0]  }}/>
+    //           <Text>{item.title}</Text>
+    //           </View>
+            
+    //         </TouchableOpacity>
+    //       )}
+    //       keyExtractor={item => item.id}
+    //     />
        
-      </View>
+    //   </View>
      
-    </View>
+    // </View>
    
+    <View style={styles.container}> 
+
+    <Header title={category.toUpperCase()} /> 
+
+    <SearchInput onSearch={setKeyword} />     
+
+      <FlatList 
+        data={arrProducts} 
+        renderItem={({ item }) => ( 
+          <TouchableOpacity onPress={() => navigation.navigate("Details", { product: item })}> 
+            <View style={{ flexDirection: "row-reverse", marginVertical: 20 }}> 
+              <Text style={styles.text}> 
+                {item.title} 
+              </Text> 
+              <Image  style={styles.image}source={{ uri: item.thumbnail }}/> 
+            </View> 
+          </TouchableOpacity>)}
+          
+        keyExtractor={(item) => item.id} 
+      /> 
+
+
+    </View> 
+  
   )
 }
 
