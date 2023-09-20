@@ -1,14 +1,34 @@
-// import { StyleSheet, Text, View } from 'react-native'
-// import React from 'react'
+import { FlatList, Pressable, Text, View} from 'react-native'
+import React from 'react'
+import styles from './Cart.styles'
+import Cart from '../../data/Cart'
+import CartItem from './Components/CartItem'
 
-// const cart = () => {
-//   return (
-//     <View>
-//       <Text>cart</Text>
-//     </View>
-//   )
-// }
 
-// export default cart
+const cart = () => {
 
-// const styles = StyleSheet.create({})
+  const renderItem = () => <CartItem/>
+  
+  return (
+    <View style={ styles.container}>
+      <View>
+       <FlatList data={Cart} 
+       keyExtractor={item => item.id} 
+       renderItem={renderItem}/>
+        </View>
+        <View>
+          <Pressable>
+            <Text>
+              confirmar
+            </Text>
+            <View>
+              <Text>{`Total $100`} </Text>
+            </View>
+          </Pressable>
+        </View>   
+    </View>
+  )
+}
+
+export default  cart
+

@@ -2,7 +2,7 @@ import {  Text, Image, View } from 'react-native'
 import React from 'react'
 import { Header } from '../../componentes'
 import styles from './Details.style'
-import Products from '../../data/Products'
+
 
 const Details = ({route}) => {
   const {product}= route.params

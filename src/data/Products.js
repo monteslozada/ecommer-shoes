@@ -330,22 +330,7 @@
     ]
   },
   
-    {
-      "id": 21,
-      "title": "HALO: MASTER CHIEF COLLECTION",
-      "description": "Revive la saga de Halo con mejoras gráficas y todas las entregas en Halo: Master Chief Collection.",
-      "price": 499,
-      "discountPercentage": 10.0,
-      "rating": 4.7,
-      "stock": 70,
-      "brand": "Xbox Game Studios",
-      "category": "Xbox",
-      "thumbnai": "https://http2.mlstatic.com/D_NQ_NP_896244-MLA44495894208_012021-V.webp",
-      "images": [
-        "https://http2.mlstatic.com/D_NQ_NP_896244-MLA44495894208_012021-V.webp",
-        
-      ]
-    },
+   
     {
       "id": 22,
       "title": "GEARS 5",
