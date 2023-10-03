@@ -5,7 +5,7 @@ import Cart from '../../data/Cart'
 import CartItem from './Components/CartItem'
 
 
-const cart = () => {
+const Carrito = () => {
 
   const renderItem = () => <CartItem/>
   
@@ -30,5 +30,5 @@ const cart = () => {
   )
 }
 
-export default  cart
+export default Carrito
 

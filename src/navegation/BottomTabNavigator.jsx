@@ -52,8 +52,7 @@ const styles = StyleSheet.create({
     tabBar:{
        
         backgroundColor: '#131627',
-        // borderTopRightRadius: 25,
-        // borderTopLeftRadius: 25,
+     
     },
     
 })
