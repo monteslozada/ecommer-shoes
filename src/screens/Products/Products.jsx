@@ -12,15 +12,15 @@ const Products = ({ navigation }) => {
   const [keyword, setKeyword] = useState('')
   const {data, isLoading} = useGetProductsByCategoryQuery(category)
 
-  useEffect(() => {
-    console.log(data)
-    if (data) {
+  // useEffect(() => {
+  //   console.log(data)
+  //   if (data) {
       
-      const productsFiltered = data.filter(product =>
-        product.title.includes(keyword)
-      )
-    }
-  }, [])
+  //     const productsFiltered = data.filter(product =>
+  //       product.title.includes(keyword)
+  //     )
+  //   }
+  // }, [])
  
   return (
     <View style={styles.container}> 
